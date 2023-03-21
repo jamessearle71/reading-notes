@@ -1,43 +1,38 @@
-# Lab: 01b - Learning Markdown
+# Lab: 03 - Revisions and the Cloud
 
-### Norwich Code 1024d
+### Introduction
+James Searle, student on the coding bootcamp. 
 
-**Document content**
+### About  
+This is the front page to my reading notes for class 102 and 201. You may find links to each week's notes below.
 
-1. Profile
-2. About
-3. Growth Mindset
+#### Table of Contents
 
-#### Profile
-Hi, my name is James. I am originally from sunny Southend-on-Sea (questionable) in Essex and I am a prospective coder/web developer, hoping to some day get into Fintech! 😎
+#### Class 102 Content
 
-Along with the web development course, I am currently studying towards an MPhil in European, Latin American and Comparative Literatures and Cultures at the University of Cambridge.
+[Week 1](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-01.md)
+[Week 2](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-02.md)
+[Week 3](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-03.md)
+[Week 4](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-04.md)
+[Week 5](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-05.md)
+[Week 6](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-06.md)
+[Week 7](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-07.md)
+[Week 8](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-08.md)
 
-My interests include:
+#### Class 201 Content
 
-- Football (Homerton College Fourths and Arsenal fan)
-- Fitness (gym 4 days a week )
-- Reading (second-hand book shopping to fuel the addiction)
-- Nature (I am an amphibian surveyor in my spare time!) 
-
-![Toad](http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQRTwqldR-YH71p4Ezw4nM0x0mHm8AqezBBkuAqyZv9o_uT48cjvCVHtw9GgjvFg2nSmHKj8_UD-aCHpew)
-
-Email: 0121@gmail.co.uk
-
-#### About  
-This file contains all my reading notes from class 102 and 201.
-
-
-#### Growth Mindset  
-> A growth mindet is all about changing the habit of describing oneself in terms of failure. Rather, one should be receptive to challenges that foster the growth of intellegence and talent.  
-
-Reminders of how to keep yourself in a growth mindset:
-1. Be patient (getting to the level of others in Fintech will be an uphill battle, but one that I am fully committed to! 💪)
-2. Accept that mistakes are part of the learning process 
-3. Celebrate growth
-
-You can find my repos [HERE](https://github.com/jamessearle71?tab=repositories)
-
-
-## Code 102  
-[Class 01 - Growth Mindset](https://jamessearle71.github.io/reading-notes/code-102/102class-01)
+[Week 1]()
+[Week 2]()
+[Week 3]()
+[Week 4]()
+[Week 5]()
+[Week 6]()
+[Week 7]()
+[Week 8]()
+[Week 9]()
+[Week 10]()
+[Week 11]()
+[Week 12]()
+[Week 13]()
+[Week 14]()
+[Week 15]()
