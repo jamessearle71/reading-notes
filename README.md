@@ -1,14 +1,12 @@
-# Lab: 03 - Revisions and the Cloud
-
-### Introduction
+## Introduction
 James Searle, student on the coding bootcamp. 
 
-### About  
+## About  
 This is the front page to my reading notes for class 102 and 201. You may find links to each week's notes below.
 
-#### Table of Contents
+## Table of Contents
 
-#### Class 102 Content
+### Class 102
 
 [Week 1](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-01.md)  
 [Week 2](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-02.md)  
@@ -19,7 +17,7 @@ This is the front page to my reading notes for class 102 and 201. You may find l
 [Week 7](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-07.md)  
 [Week 8](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-08.md)  
 
-#### Class 201 Content
+### Class 201 Content
 
 [Week 1]()  
 [Week 2]()  
