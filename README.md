@@ -27,6 +27,7 @@ Email: 0121@gmail.co.uk
 #### About  
 This file contains all my reading notes from class 102 and 201.
 
+
 #### Growth Mindset  
 > A growth mindet is all about changing the habit of describing oneself in terms of failure. Rather, one should be receptive to challenges that foster the growth of intellegence and talent.  
 
@@ -36,3 +37,7 @@ Reminders of how to keep yourself in a growth mindset:
 3. Celebrate growth
 
 You can find my repos [HERE](https://github.com/jamessearle71?tab=repositories)
+
+
+## Code 102  
+[Class 01 - Growth Mindset](https://jamessearle71.github.io/reading-notes/code-102/102class-01)
