@@ -38,4 +38,4 @@ This is the front page to my reading notes for class 102 and 201. You may find l
 [Week 15]()  
 
 
-Notes about this task: Easy process once you get to grips with the basic commands, but very challenging at first. 
+Notes about this task: Easy process once you get to grips with the basic commands, but very challenging at first. Class 201 links to be updated as and when possible. 
