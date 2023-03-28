@@ -1,7 +1,9 @@
 ## Introduction
-James Searle, student on the coding bootcamp. 
 
-## About  
+James Searle, student on the coding bootcamp.
+
+## About
+
 This is the front page to my reading notes for class 102 and 201. You may find links to each week's notes below.
 
 ## Table of Contents
@@ -15,11 +17,11 @@ This is the front page to my reading notes for class 102 and 201. You may find l
 [Week 5](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-05.md)  
 [Week 6](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-06.md)  
 [Week 7](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-07.md)  
-[Week 8](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-08.md)  
+[Week 8](https://github.com/jamessearle71/reading-notes/blob/main/code-102/102class-08.md)
 
 ### Class 201
 
-[Week 1]()  
+[Week 1](https://github.com/jamessearle71/reading-notes/blob/main/code-201/201class-01.md)  
 [Week 2]()  
 [Week 3]()  
 [Week 4]()  
@@ -33,8 +35,6 @@ This is the front page to my reading notes for class 102 and 201. You may find l
 [Week 12]()  
 [Week 13]()  
 [Week 14]()  
-[Week 15]()  
+[Week 15]()
 
-
-
-Notes about this task: Easy process once you get to grips with the basic commands, but very challenging at first. Class 201 links to be updated as and when possible. 
+Notes about this task: Easy process once you get to grips with the basic commands, but very challenging at first. Class 201 links to be updated as and when possible.
