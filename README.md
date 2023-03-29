@@ -22,7 +22,7 @@ This is the front page to my reading notes for class 102 and 201. You may find l
 ### Class 201
 
 [Week 1](https://github.com/jamessearle71/reading-notes/blob/main/code-201/201class-01.md)  
-[Week 2]()  
+[Week 2](https://github.com/jamessearle71/reading-notes/blob/main/code-201/201class-02.md)  
 [Week 3]()  
 [Week 4]()  
 [Week 5]()  
