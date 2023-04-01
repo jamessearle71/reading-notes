@@ -24,7 +24,7 @@ This is the front page to my reading notes for class 102 and 201. You may find l
 [Class 01](https://github.com/jamessearle71/reading-notes/blob/main/code-201/201class-01.md)  
 [Class 02](https://github.com/jamessearle71/reading-notes/blob/main/code-201/201class-02.md)  
 [Class 03](https://github.com/jamessearle71/reading-notes/blob/main/code-201/201class-03.md)  
-[Class 04]()  
+[Class 04](https://github.com/jamessearle71/reading-notes/blob/main/code-201/201class-04.md)  
 [Class 05]()  
 [Class 06]()  
 [Class 07]()  
