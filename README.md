@@ -29,7 +29,7 @@ This is the front page to my reading notes for class 102 and 201. You may find l
 [Class 06](https://github.com/jamessearle71/reading-notes/blob/main/code-201/201class-06.md)  
 [Class 07](https://github.com/jamessearle71/reading-notes/blob/main/code-201/201class-07.md)  
 [Class 08](https://github.com/jamessearle71/reading-notes/blob/main/code-201/201class-08.md)  
-[Class 09]()  
+[Class 09](https://github.com/jamessearle71/reading-notes/blob/main/code-201/201class-09.md)  
 [Class 10]()  
 [Class 11]()  
 [Class 12]()  
