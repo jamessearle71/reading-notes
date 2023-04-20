@@ -34,5 +34,5 @@ This is the front page to my reading notes for class 102 and 201. You may find l
 [Class 11](https://github.com/jamessearle71/reading-notes/blob/main/code-201/201class-11.md)  
 [Class 12](https://github.com/jamessearle71/reading-notes/blob/main/code-201/201class-12.md)  
 [Class 13](https://github.com/jamessearle71/reading-notes/blob/main/code-201/201class-13.md)  
-[Class 14]()  
+[Class 14](https://github.com/jamessearle71/reading-notes/blob/main/code-201/201class-14.md)  
 [Class 15]()
